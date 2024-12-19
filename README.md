@@ -1,4 +1,12 @@
-## Hi there 👋
+##  👋 Hi I'm @priyanshshukla-kubra
+## Times / hours I like to work
+*  3.30 AM-12.30 PM Eastern Time
+## 📱Best ways to communicate with me
+* MS Teams: priyansh.shukla@hearst.com
+* ✔️ Slack @priyansh.shukla
+* ✔️ JIRA/Confluence @priyansh.shukla
+* ⭕ Email: priyansh.shukla@kubra.com
+* ❌ Phone: +91 8982709906
 
 <!--
 **priyanshshukla-kubra/priyanshshukla-kubra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
